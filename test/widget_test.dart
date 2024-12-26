@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:to_do/app/app.dart';
 import 'package:to_do/main.dart';
 
 void main() {
